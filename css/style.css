@@ -1,15 +1,18 @@
 
-
 img{
   border-radius: 15px
   
+
 }
 
-  
+h1 {
+  font-size: 80px;
+}
 
 h1 {
-    color: pink;
+    color: rgb(15, 12, 12);
     text-align: center;
+    
   }
 
   ul,li{
@@ -43,3 +46,4 @@ h1 {
     background-color: rgb(255, 192, 203);
   }
  
+  

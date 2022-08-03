@@ -1,0 +1,66 @@
+
+
+h1 {
+    font-size: 80px;
+  }
+  
+  h1 {
+      color: rgb(0, 0, 0);
+      text-align: center;
+      
+    }
+
+    
+
+
+    ul,li{
+        
+        float:inline-end;
+        color:pink;
+        
+      }
+
+      ul {
+        list-style-type: none;
+        margin:25px;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+      }
+
+      li a {
+        display:incline;
+        color: white;
+        text-align: center;
+        padding: 0px 8px;
+        text-decoration: none;
+      }
+      
+      /* Change the link color to #111 (pink) on hover */
+      li a:hover {
+        background-color: rgb(255, 192, 203);
+      }
+      
+
+
+    body {
+        background-color: pink;
+      } 
+
+   
+      div  {
+       
+        width: center;
+        padding: 20px;
+        border: 10px solid black;
+        margin: 120px;
+        text-align: center;
+       }
+   
+   
+      
+
+  
+      
+
+   
